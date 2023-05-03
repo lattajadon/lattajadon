@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jadon Latta
-- I’m a Computer Engineering student currently attending the University of Alberta
+- I’m a newly graduated Computer Engineering (May 2023) that attended the University of Alberta
 
 
 <!---
